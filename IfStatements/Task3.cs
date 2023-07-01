@@ -4,14 +4,12 @@
     {
         public static bool DoSomething1(bool b)
         {
-            // TODO Implement the method.
-            throw new NotImplementedException();
+            return !b;
         }
 
         public static bool DoSomething2(bool b)
         {
-            // TODO Implement the method.
-            throw new NotImplementedException();
+            return !b;
         }
     }
 }
